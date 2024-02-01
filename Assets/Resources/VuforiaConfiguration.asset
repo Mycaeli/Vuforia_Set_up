@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QVVENEZ4Ny8vLy8vQUFBQUtIeHJuNkFFSVVpNWlRZno0bi85aVdXY0J0MFZpS0owUG1CY2R5alZRWXhYYmlya2E2Y3lMbkg1Si9VMGU2SkpPY1huRldQbWtwVTIyUFl0RE1KeENqRmY0c0NONjdONmw2ZU1QRjlXTXNFL3FWTFB4Zm1QUktlVkJPdG1UT0pmeVVDdmpRRkVaMUQrOWZmZGVzUWNXdG9zL21MbURDRmdQZTZISWJobkxXR09OV3QwemlUVjlLZkVBSGpTTjlnWi9lcG05NjZYd2ZpbVAyMm9MQ0g4cE96c05MQ00xSFhCWmcybldCUEMwZFV6bmFLanl3OHErZ01KSkY5cDdxS3BrVGFhdUxJUWQyU1JiaWtrY0VvZE1zUFUwa3B6S0hKdHp0TndXL1YxK3lZZzNYbTU1OGVsOTdRQlpCdGViY3hxL1pFUnlDQndTaGFWNE52TW5RZ3dTMGFsY3ZJMmpsNkpvK2ZUNXpsaFp5cis=
+    vuforiaLicenseKey: ATwfqG7/////AAABmfNskOAuuEHYrctgMaqcat5m4ahA1pOXii/4LBJPw+2K0iWpXwRDvZeR2rKT/iXYuTab8azZ7dzAGGUJepleGglIeZiwYDvSZKSSz/+BBkgzDnYcAt4uWID52z+0kJpIZKLTIh/pYp0Qlj5L2hLUFy47qTOSMzKxkEWbFxaJEf5cqQlay7JC4KOKwkMkaXaQ6BKYBojnBG2xD30svxtmlaFxOESSY53JhKLPvU1zQlr2iJdXPzLYRC1vf0RtMls9vreAwX0jNmGpSy47u+v2o8QGPkf82L2pt695s7Oec9jrcwCqOIb9HLX7Eu8hiBBfuPw5Oh/u3F8roXcU47PBkFwwMbrU8Sh+2RMTOeV0Kizi
+    ufoLicenseKey: QVQ5bFhBLy8vLy8vQUFBQUtOUkdmcVlWR0VHVHZjemswWWJldUNsNXJPRGlhZlZiaE9IV3VmWDlxSkg0WFNJeWZ4VUJ6VlU5Qnl1QUNXNVFWRERKYld4Q3dKenhqbEcrOUJpeStBVk82bitTbUVSYVJMNzdaVmFYZDhMS3lwTnRpOWdrc2dsTjM5SHF5dk1FcGNlZXZIa0d5Q3grK2thVnhDMXNlcjRJWms0eEYyNnphT2JCTytTTEJIVGRWeW9vK1ZROWgxYzVkMkFnUWVsVmJhV3NjVFI5YkpadHVxWGthTlRvRWlCK1ZrdWplL3JRT3Q2c3FRRk01WFZlbWNpSVRhOUtJUkc5UWlMQzVPREZ0VllBa2Z3S1NreGljaHcyZlRZN0VIZEJickVHZmdGUDUrYXM3dnRyZ2hEK1ZxZEZEa0U4QXR1L2wzbFhoZEJYeWZqbE02SlZYWmFGSEpmRWR6aWVvTWUxSEhPc3RwcHBPK2JRQk9lUDFVZ0g=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -23,7 +23,7 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     logLevel: 0
-    version: 10.0.2
+    version: 10.20.3
     eulaAcceptedVersions: '{"Values":["","0.0","10.20"]}'
   database:
     disableModelExtraction: 0
@@ -42,7 +42,7 @@ MonoBehaviour:
     autoStartTracker: 1
     arcoreRequirement: 1
     autoImportArcore: 1
-    thirdPartyARCoreClientDetected: 0
+    thirdPartyARCoreClientDetected: 1
   playmode:
     mRecordingPath: 
     playModeType: 0
