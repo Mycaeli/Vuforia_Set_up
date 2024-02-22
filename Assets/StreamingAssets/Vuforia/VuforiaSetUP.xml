@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Target" size="320.000000 320.000000" />
+    <ImageTarget name="MicrosoftTeams-image" size="438.000000 407.000000" />
   </Tracking>
 </QCARConfig>
